@@ -38,10 +38,13 @@ This repository includes files from multiple open-source projects:
   - Copyright 2020 The SkyWater PDK Authors
   - Source: [google/skywater-pdk](https://github.com/google/skywater-pdk)
 
-- **PicoRV32 files** (`examples/netlist/`, `examples/sdc/`) - Licensed under ISC License
+- **PicoRV32 files** (`examples/netlist/`) - Licensed under ISC License
   - See `LICENSES/PICORV32_LICENSE`
   - Copyright (C) 2015-2021 Claire Xenia Wolf
   - Source: [YosysHQ/picorv32](https://github.com/YosysHQ/picorv32)
+
+- **SDC constraint files** (`examples/sdc/`) - Licensed under MIT License (part of this repository)
+  - See `LICENSE`
 
 - **This repository** - Licensed under MIT License
   - See `LICENSE`
